@@ -1,0 +1,2 @@
+# kickstr-privacy-policy
+PrivacyPolicy
